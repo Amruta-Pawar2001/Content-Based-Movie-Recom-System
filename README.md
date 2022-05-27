@@ -64,7 +64,7 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 <!-- PLEASE CHECK THIS OUT AS WELL -->
 #### KNN algorithm based movie recommendation model on the basis of rating
 
-I created a ratings based movie recommendation system using KNN , brute algorithm and cosine metric and was trying to connect it with the front end part with the help of flask api but couldn't connect it as i faced with few of the errors but the model is linked over here (). Here for the search part i used fuzzywuzzy. I converted the matrix to the sparse matrix. This model is more accurate than the model i used for the content based recommendation system. 
+I created a ratings based movie recommendation system using KNN , brute algorithm and cosine metric and was trying to connect it with the front end part with the help of flask api but couldn't connect it as i faced with few of the errors but the model is linked over here (https://github.com/Amruta-Pawar2001/Ratings-based-movie-recom). Here for the search part i used fuzzywuzzy. I converted the matrix to the sparse matrix. This model is more accurate than the model i used for the content based recommendation system. 
 
 ### What i suggest ?
 
