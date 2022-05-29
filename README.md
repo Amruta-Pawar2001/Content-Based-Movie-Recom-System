@@ -10,8 +10,6 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using `beautifulsoup4` and performed sentiment analysis on those reviews.
 
-Check out the live demo: 
-
 Link to youtube demo: 
 
 ## How to get the API key?
@@ -64,4 +62,4 @@ I created a ratings based movie recommendation system using KNN , brute algorith
 
 ### What i suggest ?
 
-Should go by  KNN , Naive Bayes , K-means, Random forest algorithms . Being a new commer in ML i went through a lots of models and ended up with this in just a 3-4 weeks.
+Should go by KNN , Naive Bayes , K-means, Random forest algorithms or by clustering methods. Being a new commer in ML i went through a lots of models and ended up with this in just a 3-4 weeks.
